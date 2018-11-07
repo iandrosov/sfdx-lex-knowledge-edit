@@ -1,2 +1,2 @@
 # sfdx-lex-knowledge-edit
-Salesforce Lightning Knowledge component enable Community users to author or edit articles in Lightning Community
+Salesforce DX project - Salesforce Lightning Knowledge component enables Community users to author or edit articles in Lightning Community.
