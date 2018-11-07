@@ -1,0 +1,400 @@
+[
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit",
+        {
+            "state": "n",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541623953482,
+            "changeTime": 1541623953482,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541623953486,
+            "changeTime": 1541623953486,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1541627644308,
+            "changeTime": 1541627644308,
+            "contentHash": "4fb155761d27eec018724ece1eebb3c728a8e72d"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1541623938321,
+            "changeTime": 1541623938321,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit",
+        {
+            "state": "n",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1541627635867,
+            "changeTime": 1541627635867,
+            "contentHash": "aa3bc3e94db9ac7912223f93fd20f14bfb5e3439",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings/Knowledge.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings/Knowledge.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1725,
+            "modifiedTime": 1541627644262,
+            "changeTime": 1541627644262,
+            "contentHash": "6120bb4f2f82d207e814342176b1d1aa450f4e18"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/Knowledge__kav.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/Knowledge__kav.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1004,
+            "modifiedTime": 1541627644272,
+            "changeTime": 1541627644272,
+            "contentHash": "7203f0521422dd3200426bd6392bd77044e489a4"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/archived_articles.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/archived_articles.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 621,
+            "modifiedTime": 1541627644272,
+            "changeTime": 1541627644272,
+            "contentHash": "daa0eae067ef0a848d740e4afb4065d1108ea3e6"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/draft_articles.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/draft_articles.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 615,
+            "modifiedTime": 1541627644273,
+            "changeTime": 1541627644273,
+            "contentHash": "ed648c2ebe6cdaab5237c7d8595a467b1104fa40"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/published_articles.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/published_articles.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 623,
+            "modifiedTime": 1541627644273,
+            "changeTime": 1541627644273,
+            "contentHash": "dd6bf077617edfd402fddd3a77c78c5cb990ebbc"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes/FAQ_Pages.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes/FAQ_Pages.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1541627644273,
+            "changeTime": 1541627644273,
+            "contentHash": "95c97ebb7f355d54cd4ca4115b2a652bacf4f973"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts/Knowledge__kav-Knowledge Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts/Knowledge__kav-Knowledge Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 803,
+            "modifiedTime": 1541627644277,
+            "changeTime": 1541627644277,
+            "contentHash": "19179470e54635bb2ed6f3154088ab9402d1fbf5"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs/Knowledge__kav.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs/Knowledge__kav.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1541627644279,
+            "changeTime": 1541627644279,
+            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticleVersion.KBTranslationSubWorkflow.approvalProcess-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticleVersion.KBTranslationSubWorkflow.approvalProcess-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1154,
+            "modifiedTime": 1541627644280,
+            "changeTime": 1541627644280,
+            "contentHash": "51c4e5c4b0e18d6afb23760f13145d06d0a6758d"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticle.KBWorkflow.approvalProcess-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticle.KBWorkflow.approvalProcess-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1116,
+            "modifiedTime": 1541627644282,
+            "changeTime": 1541627644282,
+            "contentHash": "49735a3c81ab6670dad9a294a8e87590f3d41e3a"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5130,
+            "modifiedTime": 1541627644286,
+            "changeTime": 1541627644286,
+            "contentHash": "dcbca62a711bf009fb4204d0fdbb4373ed1c19c3"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5130,
+            "modifiedTime": 1541627644290,
+            "changeTime": 1541627644290,
+            "contentHash": "dcbca62a711bf009fb4204d0fdbb4373ed1c19c3"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5468,
+            "modifiedTime": 1541627644295,
+            "changeTime": 1541627644295,
+            "contentHash": "f0d80c3c53d0b076aca32c7e723a948ef940ff08"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19469,
+            "modifiedTime": 1541627644305,
+            "changeTime": 1541627644305,
+            "contentHash": "ec2adfe03092a7fc0ce47be88680b6ff7e6e9aed"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups/Policy.datacategorygroup-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups/Policy.datacategorygroup-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 409,
+            "modifiedTime": 1541627644308,
+            "changeTime": 1541627644308,
+            "contentHash": "1d4c682e1677e01d18f1dbf5be093f9d0ca74244"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541627644262,
+            "changeTime": 1541627644262,
+            "contentHash": "e1cdd8347f8bb45edecd14132980a1a7b3b42f7b"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1541627644273,
+            "changeTime": 1541627644273,
+            "contentHash": "ef825b1b6ed10e3b360f613c78dd245f89ae132d"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541627644272,
+            "changeTime": 1541627644272,
+            "contentHash": "509845e72638fa48b772a6f92285ed33fc53cf1b"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1541627644273,
+            "changeTime": 1541627644273,
+            "contentHash": "7860af976eb7637326172cddc26c8233fcce838f"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541627644273,
+            "changeTime": 1541627644273,
+            "contentHash": "fc487fca8502f6925d316cfc8d7fa5b0b57aec4f"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541627644277,
+            "changeTime": 1541627644277,
+            "contentHash": "016a66aa8471853ba78776947d9074a984a78736"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541627644279,
+            "changeTime": 1541627644279,
+            "contentHash": "d8c1a2a8b51764781249796ab156269349b811b8"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541627644282,
+            "changeTime": 1541627644282,
+            "contentHash": "4b605996d03ee86f96cff7293a5cae37e3a336be"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1541627644304,
+            "changeTime": 1541627644304,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups",
+        {
+            "state": "u",
+            "sourcePath": "/Users/igor-androsov/bisk/Nov18/dx/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541627644308,
+            "changeTime": 1541627644308,
+            "contentHash": "afd02c0af9cc33ad35d8bfcbc459b20ad259b5ba"
+        }
+    ]
+]

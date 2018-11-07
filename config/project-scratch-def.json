@@ -1,0 +1,11 @@
+{
+    "orgName": "igor-androsov Company",
+    "edition": "Developer",
+    "features": ["Communities", "Knowledge", "AuthorApex"],
+	"settings": {
+      "orgPreferenceSettings": {
+          "networksEnabled": true,
+          "s1DesktopEnabled": true
+      }
+  	}
+}
