@@ -3,7 +3,7 @@ Salesforce DX project - Salesforce Lightning Knowledge component enables Communi
 
 
 ## Dev, Build and Test
-We are using [Salesforce DX](https://developer.salesforce.com/platform/dx) to develop test and build this project. (DX CLI ned to be installed and connected to a DevHUB ORG) To prep the environment create a new scratch org and push code to get started follow tehse steps.
+We are using [Salesforce DX](https://developer.salesforce.com/platform/dx) to develop test and build this project. (DX CLI ned to be installed and connected to a DevHUB ORG) To prep the environment create a new scratch org and push code to get started follow these steps.
 
 * Clone git repository
 * Chenge directory to this new project local directory
@@ -12,7 +12,7 @@ We are using [Salesforce DX](https://developer.salesforce.com/platform/dx) to de
 * Open new ORG
 
 ```
-# Connectcurrnet project DX tools to your devhub
+# Connect current project DX tools to your devhub
 $ sfdx force:config:set defaultdevhubusername=<USER NAME>
 
 # List all conecetd orgs
