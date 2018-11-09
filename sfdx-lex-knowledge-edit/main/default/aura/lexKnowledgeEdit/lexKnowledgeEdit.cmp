@@ -1,5 +1,6 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
-	<aura:handler name="init" value="{! this }" action="{! c.init }" />
+    <aura:handler name="init" value="{! this }" action="{! c.init }" />
+    <aura:attribute name="articleID" />
     <aura:attribute name="richtext" type="String"/>
 
     <div aura:id="container">

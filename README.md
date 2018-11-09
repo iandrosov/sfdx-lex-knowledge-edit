@@ -1,5 +1,7 @@
 # sfdx-lex-knowledge-edit
-Salesforce DX project - Salesforce Lightning Knowledge component enables Community users to author or edit articles in Lightning Community.
+Salesforce DX project - Salesforce Lightning Knowledge component enables Community users to author or edit Knowledge articles in Lightning Community.
+
+This functionality is missing in standard features as of Winter 19.
 
 
 ## Dev, Build and Test
@@ -8,8 +10,9 @@ We are using [Salesforce DX](https://developer.salesforce.com/platform/dx) to de
 * Clone git repository
 * Chenge directory to this new project local directory
 * Create new Scratch ORG
-* Push code to new SCratch ORG
+* Push code to new Scratch ORG
 * Open new ORG
+* Update your Admin user to access Knowledge
 
 ```
 # Connect current project DX tools to your devhub
@@ -33,7 +36,33 @@ Once all tehse steps are completed project is ready to go get started with devel
 This project includes all Lightning component code and basic Knowledge set up for the org. We will need a Comunity to test with.
 
 ## Resources
+Here are some DX commands found to be useful for this project
 
+* View user details on Scratch ORG
+
+```
+$ sfdx force:user:display --targetusername klex
+=== User Description
+KEY           VALUE
+────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Access Token  <LONG SESSION ACESS TOKEN STRING>
+Alias         klex
+Id            005J0000006rrSeIAI
+Instance Url  https://page-flow-3769-dev-ed.cs10.my.salesforce.com/
+Login Url     https://CS10.salesforce.com
+Org Id        00DJ0000003QfDJMA0
+Profile Name  System Administrator
+Username      test-1h05kz9imn2q@example.com
+
+```
+
+* Set User Password on Scratch ORG
+
+```
+$ sfdx force:user:password:generate --targetusername klex
+
+Successfully set the password "**PASSWORD STRING**" for user test-1h05kz9imn2q@example.com.
+``` 
 
 ## Description of Files and Directories
 

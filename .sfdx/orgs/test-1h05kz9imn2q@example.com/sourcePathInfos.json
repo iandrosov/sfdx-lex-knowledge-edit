@@ -137,15 +137,15 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 577,
             "modifiedTime": 1541764130566,
             "changeTime": 1541764130566,
-            "isWorkspace": false,
-            "contentHash": "9b692d94108fbb46405879162c74209a0e96a58f"
+            "contentHash": "9b692d94108fbb46405879162c74209a0e96a58f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -301,16 +301,14 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts/Knowledge__kav-Knowledge Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts/Knowledge__kav-Knowledge Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 803,
-            "modifiedTime": 1541762916782,
-            "changeTime": 1541762916782,
-            "contentHash": "19179470e54635bb2ed6f3154088ab9402d1fbf5",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 979,
+            "modifiedTime": 1541783599167,
+            "changeTime": 1541783599167,
+            "contentHash": "e4aaf356137bdfa0816ef9187e07ed4c05d7f5f7"
         }
     ],
     [
@@ -589,7 +587,7 @@
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit",
             "isDirectory": true,
             "size": 416,
-            "modifiedTime": 1541763286646,
+            "modifiedTime": 1541779772908,
             "changeTime": 1541763286646,
             "contentHash": "0a8ffd8c0a421b959bdbfe79559c1a05efa1587d",
             "isMetadataFile": false,
