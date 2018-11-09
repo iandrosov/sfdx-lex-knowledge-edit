@@ -1,4 +1,12 @@
+# sfdx runtime ignore
+
 .DS_Store
+.sfdx
+.project
+.salesforce
+.settings
+node_modules
+.idea
 
 # Logs
 logs

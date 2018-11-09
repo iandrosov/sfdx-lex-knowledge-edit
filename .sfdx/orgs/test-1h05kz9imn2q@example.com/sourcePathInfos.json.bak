@@ -2,7 +2,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticle.KBWorkflow.approvalProcess-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticle.KBWorkflow.approvalProcess-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -77,7 +77,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticleVersion.KBTranslationSubWorkflow.approvalProcess-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/approvalProcesses/KnowledgeArticleVersion.KBTranslationSubWorkflow.approvalProcess-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -92,7 +92,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -167,7 +167,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEditController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEditController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEditHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEditHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEditRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEditRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -272,7 +272,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups/Policy.datacategorygroup-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/datacategorygroups/Policy.datacategorygroup-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -287,7 +287,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -302,7 +302,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts/Knowledge__kav-Knowledge Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/layouts/Knowledge__kav-Knowledge Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -317,7 +317,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/Knowledge__kav.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/Knowledge__kav.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -362,7 +362,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/archived_articles.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/archived_articles.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -392,7 +392,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/draft_articles.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/draft_articles.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -407,7 +407,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/published_articles.listView-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/listViews/published_articles.listView-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -422,7 +422,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -437,7 +437,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes/FAQ_Pages.recordType-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/objects/Knowledge__kav/recordTypes/FAQ_Pages.recordType-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -452,7 +452,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -467,7 +467,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -482,7 +482,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -497,7 +497,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -512,7 +512,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -527,7 +527,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings/Knowledge.settings-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/settings/Knowledge.settings-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -557,7 +557,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -572,7 +572,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs/Knowledge__kav.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/tabs/Knowledge__kav.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -587,7 +587,7 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit",
             "isDirectory": true,
             "isMetadataFile": false,
