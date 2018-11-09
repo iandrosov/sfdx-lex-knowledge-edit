@@ -6,7 +6,8 @@
         <p>
             <lightning:inputRichText value="{!v.richtext}"/>
         </p> 
-        
+        <br/>
+        <h2>Text Output for sample only to show live text edits</h2>
         <p>
             <lightning:formattedRichText aura:id="kvaRichText" value="{!v.richtext}" />
         </p>
