@@ -1,7 +1,7 @@
-<aura:component implements="forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+<aura:component controller="LEX_KnowledgeController" implements="forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
     <aura:handler name="init" value="{! this }" action="{! c.init }" />
-    <aura:attribute name="articleID" />
-    <aura:attribute name="richtext" type="String"/>
+    <aura:attribute name="articleID" type="String" />
+    <aura:attribute name="richtext" type="String" />
 
     <div aura:id="container">
         <p>
