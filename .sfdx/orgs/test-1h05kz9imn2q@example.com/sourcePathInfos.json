@@ -32,15 +32,14 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1541792672585,
-            "changeTime": 1541792672585,
-            "contentHash": "7567b6f3dd112394cbea3035d513431846fc7e88",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 608,
+            "modifiedTime": 1542160097069,
+            "changeTime": 1542160097069,
+            "contentHash": "70f0b8da8c1f7c3be99810e30f51035e42c061f6"
         }
     ],
     [
@@ -91,16 +90,14 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1541763069700,
-            "changeTime": 1541763069700,
-            "contentHash": "c23206a17d16dab56323e2dcb1ef7917f229d7e7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 288,
+            "modifiedTime": 1542160096911,
+            "changeTime": 1542160096911,
+            "contentHash": "4e0cef221a75384cada34355e4eb175489208569"
         }
     ],
     [
@@ -136,15 +133,15 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 672,
             "modifiedTime": 1541793433180,
             "changeTime": 1541793433180,
-            "isWorkspace": false,
-            "contentHash": "11f572f1cccef0897f9599d23eb9b6f48911c0f9"
+            "contentHash": "11f572f1cccef0897f9599d23eb9b6f48911c0f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -448,16 +445,14 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1541762916785,
-            "changeTime": 1541762916785,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 224,
+            "modifiedTime": 1542160097061,
+            "changeTime": 1542160097061,
+            "contentHash": "d4d9ce9b29b1f88b0b30ac6cbd9bb35982dcfc2c"
         }
     ],
     [
@@ -597,27 +592,27 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1541792723353,
-            "changeTime": 1541792723353,
-            "contentHash": "b0b28fe38f1d20f886be11c17b961be22bbeb0c1",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1664,
+            "modifiedTime": 1542160097055,
+            "changeTime": 1542160097055,
+            "contentHash": "d920e9f106caece7ab3b975213d143e534abb1da"
         }
     ],
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LEX_KnowledgeController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LEX_KnowledgeController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 377,
             "modifiedTime": 1541795079589,
             "changeTime": 1541795079589,
-            "contentHash": "f50767cfdf795b2d95bf434403e52dff81d15a67"
+            "contentHash": "f50767cfdf795b2d95bf434403e52dff81d15a67",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -631,6 +626,1995 @@
             "contentHash": "8537626406a44315e0b5d92811b6b997f5848ef1",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1542160096889,
+            "changeTime": 1542160096889,
+            "contentHash": "d631b8484f7cf65ecbe56127a65e4ec278d8657d"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/SiteStyles.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/SiteStyles.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1542160096899,
+            "changeTime": 1542160096899,
+            "contentHash": "acbb17c79c96e91d9c04ae4c847b7241ccde01de"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/clock.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/clock.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4681,
+            "modifiedTime": 1542160096900,
+            "changeTime": 1542160096900,
+            "contentHash": "6f2f8d42808b3c04c1a2e7d9b6ba37ea7f862ba7"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/construction.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/construction.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15051,
+            "modifiedTime": 1542160096900,
+            "changeTime": 1542160096900,
+            "contentHash": "322851d6d1ef8caf107caf445de1b6c05caef6bc"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/force_logo.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/force_logo.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1542160096900,
+            "changeTime": 1542160096900,
+            "contentHash": "40bb27e6354b88edcd694651e69ac817cc859541"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/maintenance.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/maintenance.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12247,
+            "modifiedTime": 1542160096901,
+            "changeTime": 1542160096901,
+            "contentHash": "3eae4032e6c554a7c44ec277b10f9fa92de2d6cf"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/poweredby.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/poweredby.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 984,
+            "modifiedTime": 1542160096901,
+            "changeTime": 1542160096901,
+            "contentHash": "a29fa078df1fc18309a8fa02d5941312e4e41344"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/tools.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/tools.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2136,
+            "modifiedTime": 1542160096901,
+            "changeTime": 1542160096901,
+            "contentHash": "06ee26032a159736878decef296cba66ec8d8e25"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/unauthorized.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/unauthorized.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2076,
+            "modifiedTime": 1542160096901,
+            "changeTime": 1542160096901,
+            "contentHash": "74dc855d72862a1f62d1c9ec0535f43a229fb1a4"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/warning.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img/warning.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1767,
+            "modifiedTime": 1542160096901,
+            "changeTime": 1542160096901,
+            "contentHash": "90ef2806b042926ca428c19654b9306555b53429"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1542160096905,
+            "changeTime": 1542160096905,
+            "contentHash": "7bc3651ed6bd5ed8edc366c2ca6b9646d85c21e9"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setStartUrl/setStartUrl.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setStartUrl/setStartUrl.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542160096905,
+            "changeTime": 1542160096905,
+            "contentHash": "36d4cf2f3ee9039bdae4d29a0056923260d7373b"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1542160096906,
+            "changeTime": 1542160096906,
+            "contentHash": "944c305a86de25c5c4cc6af72b7e86082e35900f"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 714,
+            "modifiedTime": 1542160096906,
+            "changeTime": 1542160096906,
+            "contentHash": "c50da00f4f7211befe944a7e800c75a3c31d3c81"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegisterHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegisterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2424,
+            "modifiedTime": 1542160096906,
+            "changeTime": 1542160096906,
+            "contentHash": "e579fbb4dae5e6c3e604f900719e1c697908fe02"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3412,
+            "modifiedTime": 1542160096907,
+            "changeTime": 1542160096907,
+            "contentHash": "eb17e7321358d4e1f50506328593d32deef7e6ff"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegisterController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegisterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1183,
+            "modifiedTime": 1542160096907,
+            "changeTime": 1542160096907,
+            "contentHash": "1ac99d86482ed0f2997f150773d0f867705fe610"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister/selfRegister.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5281,
+            "modifiedTime": 1542160096907,
+            "changeTime": 1542160096907,
+            "contentHash": "3fd8be0700fabe1c7aae4090088fbea18e02c349"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1542160096908,
+            "changeTime": 1542160096908,
+            "contentHash": "2ba564115b675a55f3b10f2509d46f86be0e56cf"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1743,
+            "modifiedTime": 1542160096908,
+            "changeTime": 1542160096908,
+            "contentHash": "83ef99e93cdcb75639fdd632d2b999fc099d8290"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1433,
+            "modifiedTime": 1542160096908,
+            "changeTime": 1542160096908,
+            "contentHash": "b23bd13dd4e4a91d377bd7dc39826c44fb349ffd"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPassword.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 299,
+            "modifiedTime": 1542160096909,
+            "changeTime": 1542160096909,
+            "contentHash": "e48bbc8023c88f57af56e6aeb270cb83679a8f3d"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPasswordController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPasswordController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 765,
+            "modifiedTime": 1542160096909,
+            "changeTime": 1542160096909,
+            "contentHash": "830df9a34fd83eb9e7916aea616541d67dbc34e6"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1043,
+            "modifiedTime": 1542160096909,
+            "changeTime": 1542160096909,
+            "contentHash": "2002734bc484699cf8d5f68bb5930de6801e5b3e"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setExpId/setExpId.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setExpId/setExpId.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1542160096910,
+            "changeTime": 1542160096910,
+            "contentHash": "eb6d7debe49dd57d4d171766de7ae8ced740fab5"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setExpId/setExpId.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setExpId/setExpId.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542160096911,
+            "changeTime": 1542160096911,
+            "contentHash": "3eb7d547ead7f9611baf1f7ee880973ccb65889c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1542160096912,
+            "changeTime": 1542160096912,
+            "contentHash": "ea401136a4c17dd092cc867379df3d8f6cfd62a8"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4098,
+            "modifiedTime": 1542160096912,
+            "changeTime": 1542160096912,
+            "contentHash": "8cad4a3886eb1be09b766a10c7a0975c6c1fdf46"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2950,
+            "modifiedTime": 1542160096912,
+            "changeTime": 1542160096912,
+            "contentHash": "64e5af91d1a6454d38258590c1efdfc27222c2ff"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 546,
+            "modifiedTime": 1542160096913,
+            "changeTime": 1542160096913,
+            "contentHash": "9c45d15bab64fa1cfe6466a3cea52b68fbcc787c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginFormHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2872,
+            "modifiedTime": 1542160096913,
+            "changeTime": 1542160096913,
+            "contentHash": "0005d3525bc7e18a24f19df148a2833b4a1ccb5e"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm/loginForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1851,
+            "modifiedTime": 1542160096913,
+            "changeTime": 1542160096913,
+            "contentHash": "e863ec165e4c2983bf703eaf60418cf394ead707"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteLogin.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteLogin.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1542160096915,
+            "changeTime": 1542160096915,
+            "contentHash": "34d0b3b0f6379072d8c08d8488007f1f11176932"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteLogin.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteLogin.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1254,
+            "modifiedTime": 1542160096916,
+            "changeTime": 1542160096916,
+            "contentHash": "bc708781ea43467adf9e0efda09caf0e4abc96ba"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteHeader.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteHeader.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1542160096917,
+            "changeTime": 1542160096917,
+            "contentHash": "e3d69349709c6e67c14150943d55dff6ff0eeb3d"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteHeader.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteHeader.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1214,
+            "modifiedTime": 1542160096919,
+            "changeTime": 1542160096919,
+            "contentHash": "0a710387c2669b94a3224b8016f37d0a3fc20948"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SitePoweredBy.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SitePoweredBy.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 433,
+            "modifiedTime": 1542160096921,
+            "changeTime": 1542160096921,
+            "contentHash": "63e8fb424a62611d83630d4b6baec894f23328f1"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SitePoweredBy.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SitePoweredBy.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 532,
+            "modifiedTime": 1542160096922,
+            "changeTime": 1542160096922,
+            "contentHash": "353f26acfff5ff089406bc9b6029fec483f8360f"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteFooter.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteFooter.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1542160096923,
+            "changeTime": 1542160096923,
+            "contentHash": "e8aa6c9b63e0d83e00ae4e7b499eac3c23d6c617"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteFooter.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components/SiteFooter.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1542160096923,
+            "changeTime": 1542160096923,
+            "contentHash": "8c9f2b97bbfa52fdef76795bfea4a72ea95d3258"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/UnderConstruction.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/UnderConstruction.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 537,
+            "modifiedTime": 1542160096925,
+            "changeTime": 1542160096925,
+            "contentHash": "050e5551914cbd38553365d90e456e3fa728e8fa"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/UnderConstruction.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/UnderConstruction.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 819,
+            "modifiedTime": 1542160096926,
+            "changeTime": 1542160096926,
+            "contentHash": "7e44e8eff2115cba3f9494ac0ebac64ba628e919"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/IdeasHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/IdeasHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 531,
+            "modifiedTime": 1542160096928,
+            "changeTime": 1542160096928,
+            "contentHash": "d6e555bedae0c4121ea688efc031d9722b9dd708"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/IdeasHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/IdeasHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1542160096929,
+            "changeTime": 1542160096929,
+            "contentHash": "321994aef1dc6905bd2f9ea1275cef640575796a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/AnswersHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/AnswersHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 535,
+            "modifiedTime": 1542160096930,
+            "changeTime": 1542160096930,
+            "contentHash": "11c0a81e3b938044d8e7d636635f337e238a05fd"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/AnswersHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/AnswersHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1542160096931,
+            "changeTime": 1542160096931,
+            "contentHash": "a82a578935f0381f7ce194fc36f422775d6ab707"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 527,
+            "modifiedTime": 1542160096933,
+            "changeTime": 1542160096933,
+            "contentHash": "8dd6b7b1aa67c590944c957c7b5547dcbba0a5fe"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 254,
+            "modifiedTime": 1542160096934,
+            "changeTime": 1542160096934,
+            "contentHash": "959a24656384758f13bbd30dfa419f0ca6f0392d"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 516,
+            "modifiedTime": 1542160096936,
+            "changeTime": 1542160096936,
+            "contentHash": "0b37ac60470811946ff0fb352f86b8ac8efed702"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1542160096937,
+            "changeTime": 1542160096937,
+            "contentHash": "d494d65b30936c6c6cc4ea317ca0be26fefd0899"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLanding.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLanding.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 520,
+            "modifiedTime": 1542160096939,
+            "changeTime": 1542160096939,
+            "contentHash": "05fd1ff0a1425891b58edb2852deee131e82b3f1"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLanding.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesLanding.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1542160096939,
+            "changeTime": 1542160096939,
+            "contentHash": "f4f56310b743abd6983739cb9fb38a89ed8bd5d9"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 530,
+            "modifiedTime": 1542160096941,
+            "changeTime": 1542160096941,
+            "contentHash": "43a142746b7758064b45425f8f578cc79e8a26dd"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfReg.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfReg.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1835,
+            "modifiedTime": 1542160096942,
+            "changeTime": 1542160096942,
+            "contentHash": "8740a361c26a708331f96b5d59b82154d2efcf9c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 550,
+            "modifiedTime": 1542160096944,
+            "changeTime": 1542160096944,
+            "contentHash": "4eb7feaa53a940962552bae875fe55b5e05966cf"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfRegConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/CommunitiesSelfRegConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1369,
+            "modifiedTime": 1542160096945,
+            "changeTime": 1542160096945,
+            "contentHash": "9bd974d33dbf89a831056f0b8e84b9b425e7df18"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/MyProfilePage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/MyProfilePage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 523,
+            "modifiedTime": 1542160096947,
+            "changeTime": 1542160096947,
+            "contentHash": "a35ce8f8444cebd0d6a0229346823aa021faa6a7"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/MyProfilePage.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/MyProfilePage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5352,
+            "modifiedTime": 1542160096959,
+            "changeTime": 1542160096959,
+            "contentHash": "620edf5c2c314699cb5acd8a29ee2897a7f4be9c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/StdExceptionTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/StdExceptionTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 554,
+            "modifiedTime": 1542160096961,
+            "changeTime": 1542160096961,
+            "contentHash": "73e913924ed313fdf95c26e32c887f3e1987d578"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/StdExceptionTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/StdExceptionTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1542160096961,
+            "changeTime": 1542160096961,
+            "contentHash": "ee21ef14d08dc898cc2f7c14b009b44e39843047"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 532,
+            "modifiedTime": 1542160096963,
+            "changeTime": 1542160096963,
+            "contentHash": "3e323b30ac07327e1bfedcab1d208469d3078e86"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 363,
+            "modifiedTime": 1542160096964,
+            "changeTime": 1542160096964,
+            "contentHash": "0795cba97d90e8e6f4511bdc6845b4f6ba593a49"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/FileNotFound.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/FileNotFound.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 533,
+            "modifiedTime": 1542160096965,
+            "changeTime": 1542160096965,
+            "contentHash": "605e1b3fa6dc9eca525423f2e8b0b827a1ccba1c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/FileNotFound.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/FileNotFound.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1667,
+            "modifiedTime": 1542160096966,
+            "changeTime": 1542160096966,
+            "contentHash": "5e6c03f7313422001a3df2c492db52fabdc10212"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/BandwidthExceeded.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/BandwidthExceeded.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 533,
+            "modifiedTime": 1542160096968,
+            "changeTime": 1542160096968,
+            "contentHash": "84c3a3f371b25b8f8e67da8467060283bceebb75"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/BandwidthExceeded.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/BandwidthExceeded.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 746,
+            "modifiedTime": 1542160096969,
+            "changeTime": 1542160096969,
+            "contentHash": "af8b65b80f92aa12ee84f138858b6b1253dde9f8"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Exception.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Exception.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 542,
+            "modifiedTime": 1542160096970,
+            "changeTime": 1542160096970,
+            "contentHash": "e943cc2fa144364f4d474041f7a68ad67cb61480"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Exception.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Exception.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1716,
+            "modifiedTime": 1542160096971,
+            "changeTime": 1542160096971,
+            "contentHash": "830bc42abae82f60204235bc55bb4e817329b8db"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/InMaintenance.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/InMaintenance.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 529,
+            "modifiedTime": 1542160096973,
+            "changeTime": 1542160096973,
+            "contentHash": "81d7a4a3a0113ed91b42d9da6be3f72be6d64565"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/InMaintenance.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/InMaintenance.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 854,
+            "modifiedTime": 1542160096974,
+            "changeTime": 1542160096974,
+            "contentHash": "660848468f184da3bdb013f9fdf96c6104ec33d6"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Unauthorized.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Unauthorized.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 536,
+            "modifiedTime": 1542160096975,
+            "changeTime": 1542160096975,
+            "contentHash": "5abc519a57c2fbb6d155debbda9d9da27c28a44e"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Unauthorized.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/Unauthorized.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1542160096976,
+            "changeTime": 1542160096976,
+            "contentHash": "e2d900a0e0685865732acee0c84539a31cb8638e"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1542160096978,
+            "changeTime": 1542160096978,
+            "contentHash": "3dc8f01d034d6f54c9304c442978596e420b13e0"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPasswordConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPasswordConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1315,
+            "modifiedTime": 1542160096979,
+            "changeTime": 1542160096979,
+            "contentHash": "b36e48b39e4d3b8b31a82c9c5eee2ffffc194ee3"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1542160096981,
+            "changeTime": 1542160096981,
+            "contentHash": "cbc080d5259c99d2946ffbb9d6c991108fe3279a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegisterConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegisterConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1336,
+            "modifiedTime": 1542160096981,
+            "changeTime": 1542160096981,
+            "contentHash": "e1c4950e6f20b5744e83b77652be25196945a53b"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegister.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegister.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 529,
+            "modifiedTime": 1542160096982,
+            "changeTime": 1542160096982,
+            "contentHash": "0f824f0a1a32a2d3f5e0d8563c9fcc8d505b3e7a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegister.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteRegister.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2535,
+            "modifiedTime": 1542160096983,
+            "changeTime": 1542160096983,
+            "contentHash": "41ff51ebecfc21b5b03567851586edbc5fefc6bf"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ChangePassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ChangePassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 529,
+            "modifiedTime": 1542160096985,
+            "changeTime": 1542160096985,
+            "contentHash": "db55dbffef4823fc42109379ddec705887d97045"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ChangePassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ChangePassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2253,
+            "modifiedTime": 1542160096986,
+            "changeTime": 1542160096986,
+            "contentHash": "ef99757f7f329769d4297658a07069ba6479259a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 542,
+            "modifiedTime": 1542160096987,
+            "changeTime": 1542160096987,
+            "contentHash": "cbf48f0c453ff512e2640875aae24b18f3823a40"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/ForgotPassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1734,
+            "modifiedTime": 1542160096988,
+            "changeTime": 1542160096988,
+            "contentHash": "d08010b952d7bc3b249a76a840810bef066c56e8"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 514,
+            "modifiedTime": 1542160096990,
+            "changeTime": 1542160096990,
+            "contentHash": "94a74e77e088d298d5a0da52015cc14acc20a5de"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages/SiteLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1178,
+            "modifiedTime": 1542160096990,
+            "changeTime": 1542160096990,
+            "contentHash": "cbc0628ee0ca131ce53c251ae3221ba5048f2020"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160096993,
+            "changeTime": 1542160096993,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1079,
+            "modifiedTime": 1542160096994,
+            "changeTime": 1542160096994,
+            "contentHash": "e1e93bc0b3687bf1d952419a750eb1c08887706f"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160096995,
+            "changeTime": 1542160096995,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1972,
+            "modifiedTime": 1542160096996,
+            "changeTime": 1542160096996,
+            "contentHash": "f1fd99eb82c4744783af85a86be464c1f8e321ad"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097001,
+            "changeTime": 1542160097001,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1038,
+            "modifiedTime": 1542160097002,
+            "changeTime": 1542160097002,
+            "contentHash": "326dc096dacead23bcce832cafa8046eeff5821c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097004,
+            "changeTime": 1542160097004,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6197,
+            "modifiedTime": 1542160097005,
+            "changeTime": 1542160097005,
+            "contentHash": "0078ae1357b38fec34ceffb97e7249e51daa04e6"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097009,
+            "changeTime": 1542160097009,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1332,
+            "modifiedTime": 1542160097010,
+            "changeTime": 1542160097010,
+            "contentHash": "21d44e671389d01c2035cb54f2a3b22777492713"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097012,
+            "changeTime": 1542160097012,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2805,
+            "modifiedTime": 1542160097013,
+            "changeTime": 1542160097013,
+            "contentHash": "68250b28cbd25dc5afb432323903534767578a58"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097015,
+            "changeTime": 1542160097015,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2077,
+            "modifiedTime": 1542160097016,
+            "changeTime": 1542160097016,
+            "contentHash": "19e473741cd0e4047e59345c952d815aa05e1ac2"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097018,
+            "changeTime": 1542160097018,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 558,
+            "modifiedTime": 1542160097019,
+            "changeTime": 1542160097019,
+            "contentHash": "676ee62c09240e726b685da56266e2201bf46664"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097020,
+            "changeTime": 1542160097020,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1542160097021,
+            "changeTime": 1542160097021,
+            "contentHash": "9fc17f3ba0a097f66fc1467c82c8e1d22398b48f"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097022,
+            "changeTime": 1542160097022,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 369,
+            "modifiedTime": 1542160097023,
+            "changeTime": 1542160097023,
+            "contentHash": "f0aa4e4a73ec760302173389f42991266a807010"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097025,
+            "changeTime": 1542160097025,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 434,
+            "modifiedTime": 1542160097026,
+            "changeTime": 1542160097026,
+            "contentHash": "45bce0841ca7e53e9891170118879727980b051a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097027,
+            "changeTime": 1542160097027,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1542160097029,
+            "changeTime": 1542160097029,
+            "contentHash": "cb9e706e4f2584adcf80c77bf7fd48a140f907db"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097030,
+            "changeTime": 1542160097030,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1542160097031,
+            "changeTime": 1542160097031,
+            "contentHash": "f90081d88c1b56f4db006bf0c9022a1b23126145"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097032,
+            "changeTime": 1542160097032,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 469,
+            "modifiedTime": 1542160097033,
+            "changeTime": 1542160097033,
+            "contentHash": "e91f7457a25b5da77131fe41c8f29c04bc7867c2"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097034,
+            "changeTime": 1542160097034,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 642,
+            "modifiedTime": 1542160097035,
+            "changeTime": 1542160097035,
+            "contentHash": "0bb3c4ec096aa5dd33d79abbb693eb98b3e899a0"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097036,
+            "changeTime": 1542160097036,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1542160097037,
+            "changeTime": 1542160097037,
+            "contentHash": "d699d2c76978ccad1fc33fcd78ed17c360747337"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097038,
+            "changeTime": 1542160097038,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 467,
+            "modifiedTime": 1542160097039,
+            "changeTime": 1542160097039,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097041,
+            "changeTime": 1542160097041,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 721,
+            "modifiedTime": 1542160097041,
+            "changeTime": 1542160097041,
+            "contentHash": "00a06a0620a60d0ee0118431a169b4ec3ba79891"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097043,
+            "changeTime": 1542160097043,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1542160097043,
+            "changeTime": 1542160097043,
+            "contentHash": "84070006a2c57644fd7d707525e9297ec15f91a0"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097045,
+            "changeTime": 1542160097045,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1542160097046,
+            "changeTime": 1542160097046,
+            "contentHash": "cf9f2476b780b0f6cf19e569521fe72388a25bf6"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097047,
+            "changeTime": 1542160097047,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2792,
+            "modifiedTime": 1542160097048,
+            "changeTime": 1542160097048,
+            "contentHash": "3dad7650b8dd8e6e57710fec687bf1bb5eff80bd"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097049,
+            "changeTime": 1542160097049,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5572,
+            "modifiedTime": 1542160097050,
+            "changeTime": 1542160097050,
+            "contentHash": "ed5ee92fa1fa56d090e83ef0e235b5bf6c188fe7"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097051,
+            "changeTime": 1542160097051,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1584,
+            "modifiedTime": 1542160097052,
+            "changeTime": 1542160097052,
+            "contentHash": "2e72ea98db541366419984e2a8878f467de5a3e5"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1542160097054,
+            "changeTime": 1542160097054,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1542160097055,
+            "changeTime": 1542160097055,
+            "contentHash": "66dcdb35e263e3858438516c272143f39594ab6b"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Test Knowledge Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/profiles/Test Knowledge Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6902,
+            "modifiedTime": 1542160097061,
+            "changeTime": 1542160097061,
+            "contentHash": "3dd8825c5cff79e74f4750835e32cb7eeda786bd"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/sites/Test_Knowledge.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/sites/Test_Knowledge.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1579,
+            "modifiedTime": 1542160097063,
+            "changeTime": 1542160097063,
+            "contentHash": "d14874ced08081e5cc7e868dd560fd6a76d9fd01"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/siteDotComSites/Test_Knowledge1.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/siteDotComSites/Test_Knowledge1.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1542160097063,
+            "changeTime": 1542160097063,
+            "contentHash": "bb3a1a34096a98b6bcb87ab653416347a1d8cf51"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/siteDotComSites/Test_Knowledge1.site",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/siteDotComSites/Test_Knowledge1.site",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100231,
+            "modifiedTime": 1542160097065,
+            "changeTime": 1542160097065,
+            "contentHash": "d52183a26a649a82adc2f6662c1446391210304b"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networks/Test Knowledge.network-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networks/Test Knowledge.network-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2884,
+            "modifiedTime": 1542160097068,
+            "changeTime": 1542160097068,
+            "contentHash": "6e69080bfd17e5253dd7e0b301de0102e0e50757"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networkBranding/cbTest_Knowledge.networkBranding-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networkBranding/cbTest_Knowledge.networkBranding-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 635,
+            "modifiedTime": 1542160097070,
+            "changeTime": 1542160097070,
+            "contentHash": "f3c2242c749a9d269f8979ecdc028c40971450cd"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networkBranding/cbTest_Knowledge.networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networkBranding/cbTest_Knowledge.networkBranding",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2,
+            "modifiedTime": 1542160097070,
+            "changeTime": 1542160097070,
+            "contentHash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542160096899,
+            "changeTime": 1542160096899,
+            "contentHash": "94b65d41e40870e77f72cba72966f3bed8bd0800"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542160096900,
+            "changeTime": 1542160096900,
+            "contentHash": "9f4bb3dd78853fee52f25b5a18949a8603beab6b"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/staticresources/SiteSamples/img",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1542160096901,
+            "changeTime": 1542160096901,
+            "contentHash": "ca36f65b7f8888bd595c26bba98c091a986284ab"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setStartUrl",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setStartUrl",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542160096905,
+            "changeTime": 1542160096905,
+            "contentHash": "932a38c2997891d2654c0893c0e1a4288e7c15ff"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/selfRegister",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1542160096907,
+            "changeTime": 1542160096907,
+            "contentHash": "8df7cfb5f48f3f00fcd4dd27c869c4cfdccd250c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/forgotPassword",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1542160096909,
+            "changeTime": 1542160096909,
+            "contentHash": "6df7eaba9112e9d3d73be83929076ecdb37c6e02"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setExpId",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/setExpId",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542160096911,
+            "changeTime": 1542160096911,
+            "contentHash": "11feaa7814348a87d18c4891772d2ec32891466d"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/loginForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1542160096913,
+            "changeTime": 1542160096913,
+            "contentHash": "fd718632c89a370e59634cc3aa2c6f67e9702b0c"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1542160096923,
+            "changeTime": 1542160096923,
+            "contentHash": "7e3b47b6f015d41da2682d23c08c6bd410b8f4bb"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1472,
+            "modifiedTime": 1542160096990,
+            "changeTime": 1542160096990,
+            "contentHash": "54a2cf26a57a9ce2c57e7c0f9e4e09990ad938cc"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/sites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/sites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542160097063,
+            "changeTime": 1542160097063,
+            "contentHash": "3da44c3e12a48cd8ca18ec6bc8dfd428933e8349"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/siteDotComSites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/siteDotComSites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542160097065,
+            "changeTime": 1542160097065,
+            "contentHash": "d31428e3ec808dbdd76f7d63b64abacd3272f365"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networks",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542160097068,
+            "changeTime": 1542160097068,
+            "contentHash": "598888636bdb9b524c676031260fba4d4f5065bf"
+        }
+    ],
+    [
+        "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/networkBranding",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542160097070,
+            "changeTime": 1542160097070,
+            "contentHash": "445672f59116fce66799b07e6d8d16141a5a8667"
         }
     ]
 ]

@@ -32,15 +32,15 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
             "modifiedTime": 1541792672585,
             "changeTime": 1541792672585,
-            "isWorkspace": false,
-            "contentHash": "7567b6f3dd112394cbea3035d513431846fc7e88"
+            "contentHash": "7567b6f3dd112394cbea3035d513431846fc7e88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -140,11 +140,11 @@
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/aura/lexKnowledgeEdit/lexKnowledgeEdit.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 657,
-            "modifiedTime": 1541793244016,
-            "changeTime": 1541793244016,
+            "size": 672,
+            "modifiedTime": 1541793433180,
+            "changeTime": 1541793433180,
             "isWorkspace": false,
-            "contentHash": "f6b50f1e72dcae4df733fd16de7670cf9f685cec"
+            "contentHash": "11f572f1cccef0897f9599d23eb9b6f48911c0f9"
         }
     ],
     [
@@ -583,28 +583,28 @@
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 448,
             "modifiedTime": 1541792803151,
             "changeTime": 1541792803151,
-            "isWorkspace": true,
-            "contentHash": "74b746d663af12f2f5b0f38d3638bc485c424ed6"
+            "contentHash": "74b746d663af12f2f5b0f38d3638bc485c424ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1541792723353,
             "changeTime": 1541792723353,
-            "contentHash": "b0b28fe38f1d20f886be11c17b961be22bbeb0c1"
+            "contentHash": "b0b28fe38f1d20f886be11c17b961be22bbeb0c1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -614,23 +614,23 @@
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LEX_KnowledgeController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 614,
-            "modifiedTime": 1541793202521,
-            "changeTime": 1541793202521,
-            "contentHash": "74a7d4ad237e30fe4ee58e11e228e853cdfb1b68"
+            "size": 377,
+            "modifiedTime": 1541795079589,
+            "changeTime": 1541795079589,
+            "contentHash": "f50767cfdf795b2d95bf434403e52dff81d15a67"
         }
     ],
     [
         "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LEX_KnowledgeController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/iandrosov/code/projects/sfdx-lex-knowledge-edit/sfdx-lex-knowledge-edit/main/default/classes/LEX_KnowledgeController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
             "modifiedTime": 1541792723354,
             "changeTime": 1541792723354,
-            "contentHash": "8537626406a44315e0b5d92811b6b997f5848ef1"
+            "contentHash": "8537626406a44315e0b5d92811b6b997f5848ef1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
