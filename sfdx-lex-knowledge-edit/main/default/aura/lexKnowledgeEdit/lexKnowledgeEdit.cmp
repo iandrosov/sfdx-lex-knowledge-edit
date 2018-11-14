@@ -10,6 +10,7 @@
         <br/>
         <h2>Text Output for sample only to show live text edits</h2>
         <p>
+            <!-- Display updates to knowledge article -->
             <lightning:formattedRichText aura:id="kvaRichText" value="{!v.richtext}" />
         </p>
     </div>
