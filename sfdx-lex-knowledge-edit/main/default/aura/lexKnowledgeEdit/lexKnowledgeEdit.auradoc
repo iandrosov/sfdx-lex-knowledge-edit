@@ -1,6 +1,6 @@
 <aura:documentation>
 	<aura:description>Documentation</aura:description>
-	<aura:example name="ExampleName" ref="exampleComponentName" label="Label">
-		Example Description
+	<aura:example name="lexKnowledgeEdit" ref="lexKnowledgeEditComponent" label="lexKnowledgeEdit">
+		Lightning Knowledge Component to edit article in Community
 	</aura:example>
 </aura:documentation>

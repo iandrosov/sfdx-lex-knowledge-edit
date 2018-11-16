@@ -1,5 +1,6 @@
 <aura:component controller="LEX_KnowledgeController" implements="forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
     <aura:handler name="init" value="{! this }" action="{! c.init }" />
+    
     <aura:attribute name="articleID" type="String" />
     <aura:attribute name="richtext" type="String" />
 
