@@ -12,22 +12,22 @@ global with sharing class LEX_KnowledgeController {
     @AuraEnabled
     public static void createFAQArticle(){
       
-        //create the kav instance 
+        // create the kav instance 
         FAQ__kav faq = new FAQ__kav(
             Title = 'LEX FAQ',
             Summary = 'LEX article',
             Answer__c = 'Lex Answer text',
             Question__c = 'Custim question',
             Category__c = 'My Category',
-            URLName = 'test'
+            URLName = 'test name'
         );
 
         insert faq;
-        //retrieve master article Id created on FAQ__kav record insertion
-        //in order to get the KnowledgeArticleId
+        // Retrieve master article Id created on FAQ__kav record insertion
+        // in order to get the KnowledgeArticleId
         faq = [SELECT KnowledgeArticleId FROM FAQ__kav WHERE Id = :faq.Id];
           
-        //publish it
+        //publish Answers article
         KbManagement.PublishingService.publishArticle(faq.KnowledgeArticleId, true);
     }
 
