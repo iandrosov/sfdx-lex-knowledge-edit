@@ -8,6 +8,16 @@ global with sharing class LEX_KnowledgeController {
         return kav;
     }
 
+    // Try to create articel
+    @AuraEnabled
+    global static string createArticle(String title, String txt){
+       KnowledgeArticleVersion kav = new KnowledgeArticleVersion ():
+       kav.Summary = txt;
+       kav.Title = title;
+       // Add erecprdtype ID for aerticle type identification
+       //
+       insert kav;
+    }
     // Method to create FAQ article
     @AuraEnabled
     public static void createFAQArticle(){
