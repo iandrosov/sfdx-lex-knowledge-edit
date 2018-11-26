@@ -8,16 +8,20 @@ global with sharing class LEX_KnowledgeController {
         return kav;
     }
 
+/**
     // Try to create articel
     @AuraEnabled
     global static string createArticle(String title, String txt){
-       KnowledgeArticleVersion kav = new KnowledgeArticleVersion ():
+       KnowledgeArticleVersion kav = new KnowledgeArticleVersion ();
        kav.Summary = txt;
        kav.Title = title;
        // Add erecprdtype ID for aerticle type identification
        //
        insert kav;
+       return kav.Id;
     }
+  **/  
+    /** FAQ may not be enabled feature
     // Method to create FAQ article
     @AuraEnabled
     public static void createFAQArticle(){
@@ -40,5 +44,5 @@ global with sharing class LEX_KnowledgeController {
         //publish Answers article
         KbManagement.PublishingService.publishArticle(faq.KnowledgeArticleId, true);
     }
-
+    **/
 }

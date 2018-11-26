@@ -5,3 +5,46 @@
 package.xml
 
 AppSwitcher.appMenu
+
+# Ignore directories
+sfdx-lex-knowledge-edit/main/default/approvalProcesses
+sfdx-lex-knowledge-edit/main/default/components
+
+# Ignore default Community APEX Classes
+sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordController.cls
+sfdx-lex-knowledge-edit/main/default/classes/ChangePasswordControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingController.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLandingControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginController.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesLoginControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmController.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegController.cls
+sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordController.cls
+sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls
+sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls
+sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls
+sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageController.cls
+sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/SiteLoginController.cls
+sfdx-lex-knowledge-edit/main/default/classes/SiteLoginControllerTest.cls
+sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterController.cls
+sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterControllerTest.cls
+
+# Ignore default Community AURA components
+sfdx-lex-knowledge-edit/main/default/aura/forgotPassword
+sfdx-lex-knowledge-edit/main/default/aura/loginForm
+sfdx-lex-knowledge-edit/main/default/aura/selfRegister
+sfdx-lex-knowledge-edit/main/default/aura/setExpid
+sfdx-lex-knowledge-edit/main/default/aura/setStartUrl
+
+# Ignore default Community Pages
+sfdx-lex-knowledge-edit/main/default/pages
+
+# Ignore Test Profiles
+sfdx-lex-knowledge-edit/main/default/profiles/Test Knowledge Profile.profile-meta.xml
