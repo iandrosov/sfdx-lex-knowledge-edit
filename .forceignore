@@ -23,12 +23,12 @@ sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegController.cls
 sfdx-lex-knowledge-edit/main/default/classes/CommunitiesSelfRegControllerTest.cls
 sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordController.cls
 sfdx-lex-knowledge-edit/main/default/classes/ForgotPasswordControllerTest.cls
-sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls
-sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls
-sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls
-sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls
-sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls
-sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls
+# sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordController.cls
+# sfdx-lex-knowledge-edit/main/default/classes/LightningForgotPasswordControllerTest.cls
+# sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormController.cls
+# sfdx-lex-knowledge-edit/main/default/classes/LightningLoginFormControllerTest.cls
+# sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterController.cls
+# sfdx-lex-knowledge-edit/main/default/classes/LightningSelfRegisterControllerTest.cls
 sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageController.cls
 sfdx-lex-knowledge-edit/main/default/classes/MyProfilePageControllerTest.cls
 sfdx-lex-knowledge-edit/main/default/classes/SiteLoginController.cls
@@ -37,9 +37,9 @@ sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterController.cls
 sfdx-lex-knowledge-edit/main/default/classes/SiteRegisterControllerTest.cls
 
 # Ignore default Community AURA components
-sfdx-lex-knowledge-edit/main/default/aura/forgotPassword
-sfdx-lex-knowledge-edit/main/default/aura/loginForm
-sfdx-lex-knowledge-edit/main/default/aura/selfRegister
+# sfdx-lex-knowledge-edit/main/default/aura/forgotPassword
+# sfdx-lex-knowledge-edit/main/default/aura/loginForm
+# sfdx-lex-knowledge-edit/main/default/aura/selfRegister
 sfdx-lex-knowledge-edit/main/default/aura/setExpid
 sfdx-lex-knowledge-edit/main/default/aura/setStartUrl
 
