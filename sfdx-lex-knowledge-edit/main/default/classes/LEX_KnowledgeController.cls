@@ -1,3 +1,5 @@
+// Example controller for knowledeg
+// TRying to create LEX components to edit articles in COmmunity
 global with sharing class LEX_KnowledgeController {
     // Methods to query
     @AuraEnabled
